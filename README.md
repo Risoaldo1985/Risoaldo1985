@@ -1,0 +1,7 @@
+- 👋 Eu sou Risoaldo de Almeida Pereira
+- 👀 Sou um advogado apaixonado por análise de dados
+- 🌱 Atualmente estou cursando tecnólogo em Banco de Dados
+- 💞️ Estou aprendendo Power BI, SQL e Python voltada para análise de dado
+- 📫 Me pergunte sobre LAW, LGPD, Power BI, EXCEL, SQL e Python
+- 😄 Você me encontra risoaldoalmeida@hotmail.com ou (18) 99752-5743
+- 📄 Minhas experiências: https://www.linkedin.com/in/risoaldoalmeida
